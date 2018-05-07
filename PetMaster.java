@@ -1,5 +1,5 @@
 /**
- * Created by NewProgrammer on 3/28/15.
+ * Created by Vlad on 3/28/15.
  */
 public class PetMaster {
 
